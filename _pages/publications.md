@@ -81,7 +81,7 @@ PDFs stored on this site go to the folder assets/files/ and are linked as /asset
 
 </div>
 
-## CPF: Reports, manuals, main publication
+## CPF ([project info](https://cpfdata.com/)): Reports, manuals, main publication
 
 **Turek, K., & Kalmijn, M. (2025). [Comparative Panel File (CPF) 2.0 Information and Manual](https://doi.org/10.31219/osf.io/y3ph6_v1)** 
 
