@@ -4,6 +4,8 @@ permalink: /research/
 excerpt: "Projects and research problems I am currently working on"
 toc: true
 toc_label: "On this page"
+header:
+        overlay_image: /assets/images/Porto - the river 2_v1.jpg 
 ---
 
 ## Research themes
