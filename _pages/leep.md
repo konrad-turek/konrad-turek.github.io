@@ -1,6 +1,12 @@
 ---
 title: LEEP project
 permalink: /leep/
+redirect_from: # old Wix blog addresses now open this page
+  - /blog
+  - /post/leep-project-results-in-brief
+  - /post/pro-active-shift
+  - /post/how-to-get-the-most-out-of-a-research-seminar
+  - /post/about-leep-in-horizon-magazine
 excerpt: "Longitudinal Employer–Employee Perspectives on the Role of Human Capital Investments for Retirement Transitions (2017–2019)"
 toc: true
 toc_label: "On this page"

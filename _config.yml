@@ -12,8 +12,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Konrad Turek, PhD - sociologist at Tilburg University. Work and ageing,
   retirement, life course inequalities, quantitative methods, open science.
 baseurl: "" # leave empty
-# Address of the site. After connecting the custom domain, change this to "https://konradturek.com"
-url: "https://konrad-turek.github.io"
+# Address of the site (the domain itself is set in the file CNAME)
+url: "https://konradturek.com"
 
 repository: "konrad-turek/konrad-turek.github.io"
 
@@ -50,6 +50,7 @@ remote_theme: "mmistakes/minimal-mistakes@4.27.0"
 plugins:
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-redirect-from # forwards old Wix addresses (see redirect_from in _pages/leep.md)
 
 defaults:
   # all pages
