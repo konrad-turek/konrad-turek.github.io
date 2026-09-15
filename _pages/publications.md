@@ -3,7 +3,7 @@ title: Publications
 permalink: /publications/
 toc: true
 toc_label: "On this page"
-excerpt: "Full list also on [Google Scholar](https://scholar.google.com/citations?user=Q2KhEt4AAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Konrad_Turek)"
+excerpt: "Full list also on **[Google Scholar](https://scholar.google.com/citations?user=Q2KhEt4AAAAJ&hl=en)** and **[ResearchGate](https://www.researchgate.net/profile/Konrad_Turek)**"
 header:
   overlay_image: /assets/images/Detroit books 4_v1.jpg
   # overlay_filter: "rgba(189, 195, 199, 0.8)"
@@ -21,9 +21,9 @@ PDFs stored on this site go to the folder assets/files/ and are linked as /asset
 
 <div class="pub-list" markdown="1">
 
-Turek, Kalmijn (2026) **[Revisiting the association between women’s employment and separation: An analysis of harmonised longitudinal surveys in six countries](https://www.demographic-research.org/articles/volume/54/32)**, *Demographic Research*, 54(32): 1009–1050
+**Turek, Kalmijn (2026) [Revisiting the association between women’s employment and separation: An analysis of harmonised longitudinal surveys in six countries](https://www.demographic-research.org/articles/volume/54/32)**, *Demographic Research*, 54(32): 1009–1050
 
-Turek, Henkens (2026) **[From early exit to retention: Employers and the reconfiguration of active ageing policy](https://www.netspar.nl/wp-content/uploads/AP_2026_004_Henkens.pdf)**, *Netspar*
+**Turek, Henkens (2026) [From early exit to retention: Employers and the reconfiguration of active ageing policy](https://www.netspar.nl/wp-content/uploads/AP_2026_004_Henkens.pdf)**, *Netspar*
 
 Aczel, Szaszi, … Turek, … Nosek (ca. 100 authors) (2026) **[Investigating the analytical robustness of the social and behavioural sciences](https://www.nature.com/articles/s41586-025-09844-9)**, *Nature* [[Preprint](https://osf.io/twqsv)]
 
