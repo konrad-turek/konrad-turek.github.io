@@ -81,7 +81,7 @@ PDFs stored on this site go to the folder assets/files/ and are linked as /asset
 
 </div>
 
-## CPF ([project](https://cpfdata.com/)): Reports, manuals, main publication
+## CPF ([www](https://cpfdata.com/)): Reports, manuals, main publications
 
 <div class="pub-list" markdown="1">
 
