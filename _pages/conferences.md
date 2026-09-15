@@ -16,7 +16,19 @@ Leave one empty line between entries.
 
 <div class="pub-list" markdown="1">
 
+## 2026
+
+Widowhood and Ageing Seminar (Sciences Po, Paris) - **invited talk** about CPF Harmonized Panel data for comparative life course research, at 
+
+## 2025
+
+Tilburg Methodological Meetings – **invited talk** about open science and Comparative Panel File
+
+How Workplace Training Policies Shape Inequalities in Working Until Later Ages A Simulation Approach to Organizational Practices, Ageing at Work Meeting, Istanbu
+
 ## 2024
+
+Tilburg Sociology Seminar – **invited talk** about Comparative Panel File
 
 Using Agent-Based Simulations to Study Organizational (Re)production of Inequalities: Training Investments and Retirement?, Social Simulation Conference, Kraków, Poland
 
