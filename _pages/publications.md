@@ -4,6 +4,8 @@ permalink: /publications/
 toc: true
 toc_label: "On this page"
 excerpt: "Full list also on [Google Scholar](https://scholar.google.com/citations?user=Q2KhEt4AAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Konrad_Turek)"
+header:
+  overlay_image: /assets/images/Detroit books 4_v1.jpg
 ---
 
 <!--
