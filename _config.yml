@@ -1,0 +1,67 @@
+# Site settings for konradturek.com
+# Built with Jekyll + Minimal Mistakes theme (design adapted from cpfdata.com).
+#
+# This file is edited rarely. After changing it, GitHub rebuilds the site
+# automatically (about 1-2 minutes).
+
+title: Konrad Turek
+subtitle: Sociology · Work & Ageing · Life Course Inequalities
+name: Konrad Turek
+email: k.l.turek@tilburguniversity.edu
+description: >- # this means to ignore newlines until "baseurl:"
+  Konrad Turek, PhD - sociologist at Tilburg University. Work and ageing,
+  retirement, life course inequalities, quantitative methods, open science.
+baseurl: "" # leave empty
+# Address of the site. After connecting the custom domain, change this to "https://konradturek.com"
+url: "https://konrad-turek.github.io"
+
+repository: "konrad-turek/konrad-turek.github.io"
+
+atom_feed:
+  hide: true
+
+search: false
+
+minimal_mistakes_skin: "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+include: ["_pages"]
+exclude: ["README.md", "LICENSE", "Gemfile", "Gemfile.lock"]
+
+# Links shown in the footer of every page
+footer:
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:k.l.turek@tilburguniversity.edu"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=Q2KhEt4AAAAJ&hl=en"
+    - label: "ResearchGate"
+      icon: "fab fa-fw fa-researchgate"
+      url: "https://www.researchgate.net/profile/Konrad_Turek"
+    - label: "OSF"
+      icon: "fas fa-fw fa-lock-open"
+      url: "https://osf.io/vcbm7"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/konrad-turek"
+
+# Build settings
+remote_theme: "mmistakes/minimal-mistakes@4.27.0"
+plugins:
+  - jekyll-feed
+  - jekyll-include-cache
+
+defaults:
+  # all pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      related: false
+      comments: false
+      share: false
+      header:
+        overlay_color: "#1f5f7a" # colour of the page headers (change here for all pages)

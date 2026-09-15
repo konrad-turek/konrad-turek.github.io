@@ -1,0 +1,12 @@
+# Top menu. Each item: the text shown and the page address.
+main:
+  - title: "About"
+    url: /about/
+  - title: "Research"
+    url: /research/
+  - title: "Publications"
+    url: /publications/
+  - title: "Conferences"
+    url: /conferences/
+  - title: "Contact"
+    url: /#contact
