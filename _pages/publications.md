@@ -23,7 +23,7 @@ PDFs stored on this site go to the folder assets/files/ and are linked as /asset
 
 **Turek, Kalmijn (2026) [Revisiting the association between women’s employment and separation: An analysis of harmonised longitudinal surveys in six countries](https://www.demographic-research.org/articles/volume/54/32)**, *Demographic Research*, 54(32): 1009–1050
 
-**Turek, Henkens (2026) [From early exit to retention: Employers and the reconfiguration of active ageing policy](https://www.netspar.nl/wp-content/uploads/AP_2026_004_Henkens.pdf)**, *Netspar*
+**Turek, Henkens (2026, in press) Social policy and a new welfare mix: Employers’ role and significance in active ageing societies**, In: Jensen P. (Ed) *Social Policy and Active Aging*, Oxford University Press.
 
 **Aczel, Szaszi, … Turek, … Nosek (ca. 100 authors) (2026) [Investigating the analytical robustness of the social and behavioural sciences](https://www.nature.com/articles/s41586-025-09844-9)**, *Nature* [[Preprint](https://osf.io/twqsv)]
 
@@ -74,6 +74,8 @@ PDFs stored on this site go to the folder assets/files/ and are linked as /asset
 ## Preprints & working papers
 
 <div class="pub-list" markdown="1">
+
+**Turek, Henkens (2026) [From early exit to retention: Employers and the reconfiguration of active ageing policy](https://www.netspar.nl/wp-content/uploads/AP_2026_004_Henkens.pdf)**, *Netspar*
 
 **van Winkle, Riekhoff, Turek (2024) [The Economic Consequences of Widowhood during Retirement: A Comparative Study on Survivor Benefits](https://www.netspar.nl/en/publication/the-economic-consequences-of-widowhood-during-retirement-a-comparative-study-on-survivor-benefits/)**, Netspar paper DP 07/2024-024
 
