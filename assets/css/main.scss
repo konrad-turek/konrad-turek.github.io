@@ -3408,3 +3408,19 @@ input[type="button"],
 body, input, select, textarea {
     font-weight: 400;
 }
+
+/* banner headings: white text on a semi-transparent black band
+   (band darkness: change 0.7 - higher = darker) */
+.page__hero--overlay .page__title,
+.page__hero--overlay .page__lead {
+    width: fit-content;
+    max-width: 100%;
+    color: #fff;
+    background: rgba(0, 0, 0, 0.7);
+    padding: 0.1em 0.45em;
+    text-shadow: none;
+}
+.page__hero--overlay .page__lead a {
+    color: #fff;
+    text-decoration: underline;
+}
