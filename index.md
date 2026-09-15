@@ -15,9 +15,9 @@ excerpt: >
 **Researcher**<br>
 [Netherlands Interdisciplinary Demographic Institute (NIDI-KNAW)](https://nidi.nl/en/)
 
-I am a sociologist, social researcher and data analyst working as an Assistant Professor at the Human Resource Studies Department at Tilburg University, the Netherlands.
+I am a sociologist and quantitative researcher working as an Assistant Professor at Tilburg University and NIDI in the Netherlands.
 
-In my research, I am trying to understand how the world of work is changing and how these changes are related to social inequalities. I study the impact of population ageing and trends toward later retirement on interactions in the labour market and inequalities in older age. In this context, I am particularly focused on comparative, life-course and organisational perspectives. I also specialise in quantitative methodology and statistics. In 2020 I codeveloped the [Comparative Panel File (CPF)](https://cpfdata.com/) – an open science project to harmonize the world’s major and longest-running household panel surveys.
+At the heart of my work is a concern with social inequality in the changing labour markets. In particular, I am interested in the impact of population ageing and trends toward later retirement on inequalities in older age. I also consider the role that employers and organisations play in producing inequality, disadvantage, and the tension between private and occupational life. I specialise in quantitative methodology and statistics. In 2020, I co-developed the [Comparative Panel File (CPF)](https://cpfdata.com/) – an open-science project to harmonize the world’s major and longest-running household panel surveys.
 
 [More about me](/about/){: .btn .btn--primary} [My research](/research/){: .btn .btn--primary}
 
