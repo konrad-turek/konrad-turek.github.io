@@ -5,7 +5,7 @@ excerpt: "Projects and research problems I am currently working on"
 toc: true
 toc_label: "On this page"
 header:
-        overlay_image: /assets/images/Morocco red car in the desert v2bw.jpg
+        overlay_image: /assets/images/Morocco red car in the desert v4bw.jpg
         overlay_filter: "rgba(189, 195, 199, 0.25)"
 ---
 
