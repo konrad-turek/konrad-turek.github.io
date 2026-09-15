@@ -3,7 +3,7 @@ title: Conferences
 permalink: /conferences/
 excerpt: "Presentations and invited talks"
 header:
-        overlay_image: /assets/images/Sleaping in Varanasi v1.jpg
+        overlay_image: /assets/images/Morocco red car in the desert v3.jpg
         # overlay_filter: "rgba(189, 195, 199, 0.25)"
         
 ---
