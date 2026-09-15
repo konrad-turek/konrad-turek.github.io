@@ -63,5 +63,6 @@ defaults:
       related: false
       comments: false
       share: false
+      classes: wide  # full-width text column
       header:
         overlay_color: "#1f5f7a" # colour of the page headers (change here for all pages)

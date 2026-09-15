@@ -8,7 +8,7 @@ search: false
 
 /* system typefaces */
 $serif      : Georgia, Times, serif;
-$sans-serif : "Ubuntu", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+$sans-serif : "Source Sans 3", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 $monospace  : Monaco, Consolas, "Lucida Console", monospace;
 
 $global-font-family : $sans-serif;
@@ -3384,6 +3384,27 @@ input[type="button"],
 
 /* publication and conference lists */
 .pub-list p {
-    font-size: 0.85em;
+    font-size: 0.9em;
     margin: 0 0 0.9em 0;
+}
+/* wide text column on all pages (no empty left sidebar) */
+@media (min-width: 64em) {
+    .layout--single .page {
+        float: none;
+        width: 100%;
+    }
+    .layout--single .sidebar {
+        display: none;
+    }
+    /* "On this page" box floats on the right */
+    .wide .sidebar__right {
+        float: right;
+        width: 260px;
+        margin: 0 0 1em 2em;
+    }
+}
+
+/* normal (not light) text weight for Source Sans 3 */
+body, input, select, textarea {
+    font-weight: 400;
 }

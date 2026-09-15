@@ -40,11 +40,11 @@ In the sixth study, we systematically reviewed evidence of causes of an increase
 
 <div class="pub-list" markdown="1">
 
-Turek K., J. Oude Mulders, K. Henkens (2020) **The Proactive Shift in Managing an Older Workforce 2009-2017: A Latent Class Analysis of Organizational Policies**, *The Gerontologist* | [Working paper PDF](/assets/files/Turek_OudeMulders_Henkens_Gerontologist_working-paper.pdf)
+Turek K., J. Oude Mulders, K. Henkens (2020) **The Proactive Shift in Managing an Older Workforce 2009-2017: A Latent Class Analysis of Organizational Policies**, *The Gerontologist* [[Working paper PDF](/assets/files/Turek_OudeMulders_Henkens_Gerontologist_working-paper.pdf)]
 
-Turek K., K. Henkens (2019) **How Skill Requirements Affect the Likelihood of Recruitment of Older Workers in Poland: The Indirect Role of Age Stereotypes**, *Work, Employment & Society* | [PDF](/assets/files/Turek_Henkens_2019_WES.pdf)
+Turek K., K. Henkens (2019) **How Skill Requirements Affect the Likelihood of Recruitment of Older Workers in Poland: The Indirect Role of Age Stereotypes**, *Work, Employment & Society* [[PDF](/assets/files/Turek_Henkens_2019_WES.pdf)]
 
-Turek K., K. Henkens (2019) **Accessibility of Training in Older Age: A Longitudinal European Perspective**, *Netspar Discussion Paper* | [PDF](/assets/files/Turek_Henkens_2019_Netspar-DP.pdf)
+Turek K., K. Henkens (2019) **Accessibility of Training in Older Age: A Longitudinal European Perspective**, *Netspar Discussion Paper* [[PDF](/assets/files/Turek_Henkens_2019_Netspar-DP.pdf)]
 
 </div>
 

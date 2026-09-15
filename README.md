@@ -28,8 +28,9 @@ The website updates automatically after 1–2 minutes (progress: **Actions** tab
 One paragraph per publication, with an empty line between entries:
 
 ```
-Turek, Kalmijn (2026) **[Title](https://link)**, *Journal*, 54(32): 1009–1050 | [OSF code](https://osf.io/xxxx)
+Turek, Kalmijn (2026) **[Title](https://link)**, *Journal*, 54(32): 1009–1050 [[OSF code](https://osf.io/xxxx)]
 ```
 
 - `**...**` = bold, `*...*` = italic, `[text](link)` = link.
+- Do not use the `|` character in entries (it turns the line into a table).
 - To upload a PDF: open the `assets/files` folder on github.com → **Add file → Upload files**.
