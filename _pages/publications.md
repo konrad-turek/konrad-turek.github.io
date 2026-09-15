@@ -81,6 +81,26 @@ PDFs stored on this site go to the folder assets/files/ and are linked as /asset
 
 </div>
 
+## CPF: Reports, manuals, main publication
+
+**Turek, K., & Kalmijn, M. (2025). [Comparative Panel File (CPF) 2.0 Information and Manual](https://doi.org/10.31219/osf.io/y3ph6_v1)** 
+
+**Turek, K., & Kalmijn, M. (2025). [Comparative Panel File: Codebook for CPF v.2.0.](osf.io/etfw2_v1)**
+
+**Turek, K., Voets, I., & Kalmijn, M. (2023). [Comparative Panel File: Manual for CPF v.1.5.](https://doi.org/10.31219/osf.io/9fhwg)** 
+
+**Turek, K., Voets, I., & Kalmijn, M. (2023). [Comparative Panel File: Codebook for CPF v.1.5.](https://doi.org/10.31219/osf.io/3hdkn)**
+
+**Turek, K., Kalmijn, M., & Leopold, T. (2020). [Comparative Panel File: Household Panel Surveys from Seven Countries. Manual for CPF v.1.0 CPF.](https://doi.org/10.31219/osf.io/7zngy)** 
+
+**Turek, K., Kalmijn, M., & Leopold, T. (2020). Comparative Panel File: Codebook for CPF v.1.0.** 
+
+**Turek K. (2025) [Accelerating Social Science Knowledge Production with the Coordinated Open-Source Model](https://link.springer.com/article/10.1007/s11135-024-02020-7)** , Quality & Quantity, 59: 767–795
+
+**Turek K., M. Kalmijn, T. Leopold (2021) [The Comparative Panel File (CPF): Harmonized Household Panel Surveys from Seven Countries](https://doi.org/10.1093/esr/jcab006)**, European Sociological Review, 37(3): 505–523  
+
+</div>
+
 ## Other publications & articles in Polish
 
 <div class="pub-list" markdown="1">
