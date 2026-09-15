@@ -1,0 +1,7 @@
+# files created by the local preview (jekyll serve) - not uploaded to GitHub
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+Gemfile.lock

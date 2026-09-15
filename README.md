@@ -20,6 +20,7 @@ The website updates automatically after 1–2 minutes (progress: **Actions** tab
 | Top menu | `_data/navigation.yml` |
 | Site name, footer links, header colour | `_config.yml` |
 | Photo | `assets/images/konrad.webp` |
+| Banner image and its colour tint (all pages) | `_config.yml` (`overlay_image`, `overlay_filter`) |
 | PDF files | `assets/files/` (link as `/assets/files/NAME.pdf`) |
 | Styling (fonts, colours) | `assets/css/main.scss` (additions at the bottom) |
 
