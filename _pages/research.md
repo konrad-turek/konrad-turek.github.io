@@ -5,7 +5,8 @@ excerpt: "Projects and research problems I am currently working on"
 toc: true
 toc_label: "On this page"
 header:
-        overlay_image: /assets/images/Porto - the river 2_v1.jpg 
+        overlay_image: /assets/images/Paris stairs_v2.jpg
+        overlay_filter: "rgba(189, 195, 199, 0.65)"
 ---
 
 ## Research themes
