@@ -44,6 +44,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/konrad-turek"
+    - label: "ORCID"
+      icon: "fab fa-fw fa-orcid"
+      url: "https://orcid.org/0000-0002-9817-6797"
 
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.27.0"
