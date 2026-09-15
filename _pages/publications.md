@@ -31,13 +31,13 @@ PDFs stored on this site go to the folder assets/files/ and are linked as /asset
 
 **Turek (2025) [Accelerating Social Science Knowledge Production with the Coordinated Open-Source Model](https://doi.org/10.1007/s11135-024-02020-7)**, *Quality & Quantity*, 59: 767–795
 
+**Turek, Henkens, Kalmijn (2024) [Gender and Educational Inequalities in Extending Working Lives: Late-Life Employment Trajectories Across Three Decades in Seven Countries](https://academic.oup.com/workar/advance-article/doi/10.1093/workar/waac021/6702675)**, *Work, Aging & Retirement* [[OSF code](https://osf.io/hakg6/)]
+
 **Marcus, Scheibe, Kooij, Truxillo, … Turek, et al. (2024) [LeverAge: A European network to leverage the multi-age workforce](https://academic.oup.com/workar/advance-article/doi/10.1093/workar/waae009/7699157)**, *Work, Aging & Retirement*
 
 **Turek, Henkens (2023) [Social Stratification of Retirement Transition](https://academic.oup.com/edited-volume/45896/chapter-abstract/425814398)**, (In:) M. Gangl et al. (Eds.) *The Oxford Handbook of Social Stratification*
 
 **Li, Turek, Henkens, Wang (2022) [Retaining Retirement-Eligible Older Workers through Training Participation: The Joint Implications of Individual Growth Need and Organizational Climates](https://doi.org/10.1037/apl0001065)**, *Journal of Applied Psychology* [[PDF](https://research.rug.nl/files/585242109/ContentServer.pdf)]
-
-**Turek, Henkens, Kalmijn (2022) [Gender and Educational Inequalities in Extending Working Lives: Late-Life Employment Trajectories Across Three Decades in Seven Countries](https://academic.oup.com/workar/advance-article/doi/10.1093/workar/waac021/6702675)**, *Work, Aging & Retirement* [[OSF code](https://osf.io/hakg6/)]
 
 **Turek, Oude Mulders, Stypińska (2022) [Different Shades of Discriminatory Effects of Age Stereotypes in The Workplace: A Multilevel and Dynamic Perspective on Organizational Behaviors](https://academic.oup.com/workar/advance-article/doi/10.1093/workar/waac019/6625813?guestAccessKey=1f513abe-7432-4de5-8f6f-519a12b69f18)**, *Work, Aging & Retirement*
 
