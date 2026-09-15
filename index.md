@@ -10,9 +10,9 @@ excerpt: >
 
 **Assistant Professor, Tilburg University**<br>
 [Human Resource Studies Department](https://www.tilburguniversity.edu/about/schools/socialsciences/organization/departments/human-resource-studies)<br>
-[Herbert Simon Research Institute](https://www.tilburguniversity.edu/research/institutes-and-research-groups/hsri)
+[Team Social Inequality and Diversity](https://www.tilburguniversity.edu/research/social-and-behavioral-sciences/sector-plan-teams-social-and-behavioral-sciences/team-social-inequality-and-diversity)
 
-**Guest researcher**<br>
+**Researcher**<br>
 [Netherlands Interdisciplinary Demographic Institute (NIDI-KNAW)](https://nidi.nl/en/)
 
 I am a sociologist, social researcher and data analyst working as an Assistant Professor at the Human Resource Studies Department at Tilburg University, the Netherlands.
