@@ -66,5 +66,5 @@ defaults:
       classes: wide  # full-width text column
       header:
         overlay_image: /assets/images/Porto - the river 2_v2.jpg  # banner image of the page headers (change here for all pages)
-        # overlay_filter: "rgba(31, 95, 122, 0.65)" # tint over the image: petrol colour, 65% strength. CPF style: 0.4 (dark)
+        overlay_filter: "rgba(220, 220, 220, 0.65)" # tint over the image: petrol colour, 65% strength. CPF style: 0.4 (dark)
         overlay_color: "#1f5f7a" # header colour used if the image is removed
