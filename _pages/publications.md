@@ -23,7 +23,7 @@ PDFs stored on this site go to the folder assets/files/ and are linked as /asset
 
 **Turek, Kalmijn (2026) [Revisiting the association between women’s employment and separation: An analysis of harmonised longitudinal surveys in six countries](https://www.demographic-research.org/articles/volume/54/32)**, *Demographic Research*, 54(32): 1009–1050
 
-**Turek, Henkens (2026) [From early exit to retention: Employers and the reconfiguration of active ageing policy](https://www.netspar.nl/wp-content/uploads/AP_2026_004_Henkens.pdf)**, *Netspar*
+**Turek, Henkens (2026, in press) Social policy and a new welfare mix: Employers’ role and significance in active ageing societies**, In: Jensen P. (Ed) *Social Policy and Active Aging*, Oxford University Press.
 
 **Aczel, Szaszi, … Turek, … Nosek (ca. 100 authors) (2026) [Investigating the analytical robustness of the social and behavioural sciences](https://www.nature.com/articles/s41586-025-09844-9)**, *Nature* [[Preprint](https://osf.io/twqsv)]
 
@@ -31,13 +31,13 @@ PDFs stored on this site go to the folder assets/files/ and are linked as /asset
 
 **Turek (2025) [Accelerating Social Science Knowledge Production with the Coordinated Open-Source Model](https://doi.org/10.1007/s11135-024-02020-7)**, *Quality & Quantity*, 59: 767–795
 
+**Turek, Henkens, Kalmijn (2024) [Gender and Educational Inequalities in Extending Working Lives: Late-Life Employment Trajectories Across Three Decades in Seven Countries](https://academic.oup.com/workar/advance-article/doi/10.1093/workar/waac021/6702675)**, *Work, Aging & Retirement* [[OSF code](https://osf.io/hakg6/)]
+
 **Marcus, Scheibe, Kooij, Truxillo, … Turek, et al. (2024) [LeverAge: A European network to leverage the multi-age workforce](https://academic.oup.com/workar/advance-article/doi/10.1093/workar/waae009/7699157)**, *Work, Aging & Retirement*
 
 **Turek, Henkens (2023) [Social Stratification of Retirement Transition](https://academic.oup.com/edited-volume/45896/chapter-abstract/425814398)**, (In:) M. Gangl et al. (Eds.) *The Oxford Handbook of Social Stratification*
 
 **Li, Turek, Henkens, Wang (2022) [Retaining Retirement-Eligible Older Workers through Training Participation: The Joint Implications of Individual Growth Need and Organizational Climates](https://doi.org/10.1037/apl0001065)**, *Journal of Applied Psychology* [[PDF](https://research.rug.nl/files/585242109/ContentServer.pdf)]
-
-**Turek, Henkens, Kalmijn (2022) [Gender and Educational Inequalities in Extending Working Lives: Late-Life Employment Trajectories Across Three Decades in Seven Countries](https://academic.oup.com/workar/advance-article/doi/10.1093/workar/waac021/6702675)**, *Work, Aging & Retirement* [[OSF code](https://osf.io/hakg6/)]
 
 **Turek, Oude Mulders, Stypińska (2022) [Different Shades of Discriminatory Effects of Age Stereotypes in The Workplace: A Multilevel and Dynamic Perspective on Organizational Behaviors](https://academic.oup.com/workar/advance-article/doi/10.1093/workar/waac019/6625813?guestAccessKey=1f513abe-7432-4de5-8f6f-519a12b69f18)**, *Work, Aging & Retirement*
 
@@ -75,9 +75,33 @@ PDFs stored on this site go to the folder assets/files/ and are linked as /asset
 
 <div class="pub-list" markdown="1">
 
+**Turek, Henkens (2026) [From early exit to retention: Employers and the reconfiguration of active ageing policy](https://www.netspar.nl/wp-content/uploads/AP_2026_004_Henkens.pdf)**, *Netspar*
+
 **van Winkle, Riekhoff, Turek (2024) [The Economic Consequences of Widowhood during Retirement: A Comparative Study on Survivor Benefits](https://www.netspar.nl/en/publication/the-economic-consequences-of-widowhood-during-retirement-a-comparative-study-on-survivor-benefits/)**, Netspar paper DP 07/2024-024
 
 **Turek (2023) [Lifelong Learning in Older Age: An Encyclopedia Entry](https://osf.io/wsb23/)**, OSF
+
+</div>
+
+## CPF ([www](https://cpfdata.com/)): Reports, manuals, main publications
+
+<div class="pub-list" markdown="1">
+
+**Turek, K., & Kalmijn, M. (2025). [Comparative Panel File (CPF) 2.0 Information and Manual](https://doi.org/10.31219/osf.io/y3ph6_v1)** 
+
+**Turek, K., & Kalmijn, M. (2025). [Comparative Panel File: Codebook for CPF v.2.0.](osf.io/etfw2_v1)**
+
+**Turek, K., Voets, I., & Kalmijn, M. (2023). [Comparative Panel File: Manual for CPF v.1.5.](https://doi.org/10.31219/osf.io/9fhwg)** 
+
+**Turek, K., Voets, I., & Kalmijn, M. (2023). [Comparative Panel File: Codebook for CPF v.1.5.](https://doi.org/10.31219/osf.io/3hdkn)**
+
+**Turek, K., Kalmijn, M., & Leopold, T. (2020). [Comparative Panel File: Household Panel Surveys from Seven Countries. Manual for CPF v.1.0 CPF.](https://doi.org/10.31219/osf.io/7zngy)** 
+
+**Turek, K., Kalmijn, M., & Leopold, T. (2020). Comparative Panel File: Codebook for CPF v.1.0.** 
+
+**Turek K. (2025) [Accelerating Social Science Knowledge Production with the Coordinated Open-Source Model](https://link.springer.com/article/10.1007/s11135-024-02020-7)** , Quality & Quantity, 59: 767–795
+
+**Turek K., M. Kalmijn, T. Leopold (2021) [The Comparative Panel File (CPF): Harmonized Household Panel Surveys from Seven Countries](https://doi.org/10.1093/esr/jcab006)**, European Sociological Review, 37(3): 505–523  
 
 </div>
 
