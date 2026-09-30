@@ -4,8 +4,8 @@ permalink: /research/
 excerpt: "Projects and research problems I am currently working on"
 toc: true
 toc_label: "On this page"
-# header:
-       # overlay_image: /assets/images/low-poly-grid-haikei (2).svg
+header:
+        overlay_image: /assets/images/layered-steps-haikei.svg
         # overlay_filter: "rgba(200, 200, 200, 0.5)"
 ---
 
