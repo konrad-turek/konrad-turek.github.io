@@ -16,7 +16,7 @@ The website updates automatically after 1–2 minutes (progress: **Actions** tab
 | Research | `_pages/research.md` |
 | LEEP project page | `_pages/leep.md` |
 | **Add a publication** | `_pages/publications.md` |
-| **Add a conference presentation** | `_pages/conferences.md` |
+| **Add a talk or presentation** | `_pages/talks.md` |
 | Top menu | `_data/navigation.yml` |
 | Site name, footer links, header colour | `_config.yml` |
 | Photo | `assets/images/konrad.webp` |

@@ -1,6 +1,8 @@
 ---
-title: Conferences
-permalink: /conferences/
+title: Talks
+permalink: /talks/
+redirect_from: # old address of this page
+  - /conferences
 excerpt: "Presentations and invited talks"
 header:
         overlay_image: /assets/images/Morocco red car in the desert v3.jpg
@@ -18,17 +20,25 @@ Leave one empty line between entries.
 
 ## 2026
 
-Widowhood and Ageing Seminar (Sciences Po, Paris) - **invited talk** about CPF Harmonized Panel data for comparative life course research, at 
+ODISSEI Podcast – <ins>**podcast**</ins>, main guest, discussion about open science [[listen](https://odissei.transistor.fm/episodes/the-comparative-panel-file-with-konrad-turek)]
+
+Data Dilemmas and Open Science (Tilburg University) – <ins>**invited talk**</ins>, expert in panel discussion
+
+Ageism as a barrier for extended working life: policies, age management and workers’ perspectives (Karolinska Institute, Stockholm) – <ins>**invited talk**</ins>, expert in panel discussion
+
+Widowhood and Ageing Seminar (Sciences Po, Paris) - <ins>**invited talk**</ins> about CPF Harmonized Panel data for comparative life course research
 
 ## 2025
 
-Tilburg Methodological Meetings – **invited talk** about open science and Comparative Panel File
+Sage Research Methods: Data and Research Literacy – video <ins>**interview**</ins> about “Open Science and the opportunities by open-source data integration” [[watch](https://methods.sagepub.com/video/konrad-turek-discusses-open-source-knowledge-production)]
+
+Tilburg Methodological Meetings – <ins>**invited talk**</ins> about open science and Comparative Panel File
 
 How Workplace Training Policies Shape Inequalities in Working Until Later Ages A Simulation Approach to Organizational Practices, Ageing at Work Meeting, Istanbu
 
 ## 2024
 
-Tilburg Sociology Seminar – **invited talk** about Comparative Panel File
+Tilburg Sociology Seminar – <ins>**invited talk**</ins> about Comparative Panel File
 
 Using Agent-Based Simulations to Study Organizational (Re)production of Inequalities: Training Investments and Retirement?, Social Simulation Conference, Kraków, Poland
 
@@ -38,15 +48,13 @@ An Agent-Based Approach to Age Management and Retirement Behaviours: From Exclus
 
 Revisiting the Association between Women’s Economic Independence and Separation: What Can We Learn from Multi-Country Panel Studies?, European Population Conference, Edinburgh, UK
 
-Comparative Panel File: An Open-Source Model for Comparative Life Course Studies, Tilburg University **[Invited speech]**
-
 ## 2023
 
-Inequalities in Extending Working Life: The Role of Organisations and Employers, ASC-ISAR Interdisciplinary Seminar on Ageing Research, Linköping University, Sweden **[Invited speech]**
+Inequalities in Extending Working Life: The Role of Organisations and Employers, ASC-ISAR Interdisciplinary Seminar on Ageing Research, Linköping University, Sweden – <ins>**invited talk**</ins>
 
-From SHP to Comparative Panel File: An Open-Source Model for Comparative Life Course Studies, International Conference of Panel Data Users in Switzerland, University of Lausanne, Switzerland **[Keynote speech]**
+From SHP to Comparative Panel File: An Open-Source Model for Comparative Life Course Studies, International Conference of Panel Data Users in Switzerland, University of Lausanne, Switzerland – <ins>**invited keynote**</ins>
 
-Comparative Analysis of Life Events: Research Potential of the Comparative Panel File, Methods for Studying the Consequences of Life Events: Interdisciplinary Perspectives, Cologne, Germany **[Invited speech]**
+Comparative Analysis of Life Events: Research Potential of the Comparative Panel File, Methods for Studying the Consequences of Life Events: Interdisciplinary Perspectives, Cologne, Germany – <ins>**invited talk**</ins>
 
 ## 2022
 
@@ -54,11 +62,15 @@ Accelerating Social Science Knowledge Production with An Open-Source Model, ODIS
 
 A Comparative and Historical Perspective on Extending Working Lives: Latent Growth Modelling of Late-Life Employment, 1990-2020, Using ‘Comparative Panel File’ For Seven Countries, Society for Longitudinal and Lifecourse Studies (SLLS), Cleveland, USA
 
-Open Source Model for Survey Harmonization: Comparative Panel File and the Future of Open Science, NPSO Survey Research Conference, Antwerpen, Belgium **[Keynote speech]**
+Open Source Model for Survey Harmonization: Comparative Panel File and the Future of Open Science, NPSO Survey Research Conference, Antwerpen, Belgium – <ins>**invited keynote**</ins>
 
 Gender and Education Inequalities in Extending Working Lives, European Population Conference, Groningen, Netherlands
 
 ## 2021
+
+University of Louvain, Center for Demographic Research (DEMO) – <ins>**invited talk**</ins> (seminar presentation) about the Comparative Panel File
+
+Polish Ministry of Labour – <ins>**invited talk**</ins> as an expert at a seminar on policy and research on older workers in Poland: Generation 50+
 
 Trends and Inequalities in Extending Working Lives: Late-Life Employment Trajectories between 1990-2019 in Seven Countries, Dutch Demography Day, Utrecht
 
@@ -116,9 +128,13 @@ Can lifelong learning help to decrease socio-economic inequalities in ageing soc
 
 ## 2016
 
+Polish Ministry of Labour – <ins>**invited talk**</ins> as an expert at a seminar on lifelong learning policy and research
+
 Employer – a forgotten actor in the studies on ageing. The meaning of workers’ age and the role of employers, European Sociological Association Midterm Conference: Ageing in Europe, Frankfurt, Germany
 
 ## 2015
+
+Five <ins>**invited talks**</ins> in 2010-2015 related to the Human Capital Study results at the Human Capital in Poland conferences (for researchers, policymakers and employers)
 
 Co starzenie się ludności oznacza dla firm? [Population ageing – what does it mean for companies?], Human Capital Study Conference, Warszawa, Poland
 
