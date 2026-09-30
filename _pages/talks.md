@@ -22,9 +22,9 @@ Leave one empty line between entries.
 
 ODISSEI Podcast – <ins>**podcast**</ins>, main guest, discussion about open science [[listen](https://odissei.transistor.fm/episodes/the-comparative-panel-file-with-konrad-turek)]
 
-Data Dilemmas and Open Science (Tilburg University) – <ins>**invited talk**</ins>, expert in panel discussion
+Data Dilemmas and Open Science (Tilburg University) – <ins>**invited talk**</ins>, expert in panel discussion (upcoming)
 
-Ageism as a barrier for extended working life: policies, age management and workers’ perspectives (Karolinska Institute, Stockholm) – <ins>**invited talk**</ins>, expert in panel discussion
+Ageism as a barrier for extended working life: policies, age management and workers’ perspectives (Karolinska Institute, Stockholm) – <ins>**invited talk**</ins>, expert in panel discussion (upcoming)
 
 Widowhood and Ageing Seminar (Sciences Po, Paris) - <ins>**invited talk**</ins> about CPF Harmonized Panel data for comparative life course research
 
