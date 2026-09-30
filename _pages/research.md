@@ -5,8 +5,8 @@ excerpt: "Projects and research problems I am currently working on"
 toc: true
 toc_label: "On this page"
 header:
-        overlay_image: /assets/images/Morocco red car in the desert v3.jpg
-        overlay_filter: "rgba(200, 200, 200, 0.5)"
+        overlay_image: /assets/images/layered-waves-haikei.svg
+        # overlay_filter: "rgba(200, 200, 200, 0.5)"
 ---
 
 ## Research themes
