@@ -5,7 +5,7 @@ redirect_from: # old address of this page
   - /conferences
 excerpt: "Presentations and invited talks"
 header:
-        overlay_image: /assets/images/blob-scatter-haikei.svg
+        overlay_image: /assets/images/blob-scatter-haikei (2).svg
         # overlay_filter: "rgba(189, 195, 199, 0.25)"
         
 ---
