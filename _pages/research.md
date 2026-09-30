@@ -5,7 +5,7 @@ excerpt: "Projects and research problems I am currently working on"
 toc: true
 toc_label: "On this page"
 header:
-        overlay_image: /assets/images/layered-waves-haikei.svg
+        overlay_image: /assets/images/low-poly-grid-haikei (2).svg
         # overlay_filter: "rgba(200, 200, 200, 0.5)"
 ---
 
