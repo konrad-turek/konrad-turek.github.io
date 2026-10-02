@@ -5,7 +5,7 @@ toc: true
 toc_label: "On this page"
 excerpt: "Full list also on **[Google Scholar](https://scholar.google.com/citations?user=Q2KhEt4AAAAJ&hl=en)** and **[ResearchGate](https://www.researchgate.net/profile/Konrad_Turek)**"
 header:
-    overlay_image: /assets/images/polygon-scatter-haikei.svg
+    overlay_image: /assets/images/low-poly-grid-haikei (1).svg
   # overlay_image: /assets/images/Detroit books 4_v1.jpg
   # overlay_filter: "rgba(189, 195, 199, 0.8)"
 ---
