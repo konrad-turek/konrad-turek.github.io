@@ -69,6 +69,6 @@ defaults:
       share: false
       classes: wide  # full-width text column
       header:
-        overlay_image: /assets/images/low-poly-grid-haikei (3).svg # banner image of the page headers (change here for all pages)
+        overlay_image: /assets/images/low-poly-grid-haikei.svg # banner image of the page headers (change here for all pages)
         # overlay_filter: "rgba(200, 200, 200, 0.5)" # tint over the image: petrol colour, 65% strength. CPF style: 0.4 (dark)
         # overlay_color: "#1f5f7a" # header colour used if the image is removed
