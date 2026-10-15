@@ -76,6 +76,8 @@ PDFs stored on this site go to the folder assets/files/ and are linked as /asset
 
 <div class="pub-list" markdown="1">
 
+**Turek (2026) [The Capability Prism: How Organizations Refract Shared Demands into Unequal Capabilities](https://zenodo.org/records/23395979)**, working paper (Zenodo)
+
 **Turek, Henkens (2026) [From early exit to retention: Employers and the reconfiguration of active ageing policy](https://www.netspar.nl/wp-content/uploads/AP_2026_004_Henkens.pdf)**, *Netspar*
 
 **van Winkle, Riekhoff, Turek (2024) [The Economic Consequences of Widowhood during Retirement: A Comparative Study on Survivor Benefits](https://www.netspar.nl/en/publication/the-economic-consequences-of-widowhood-during-retirement-a-comparative-study-on-survivor-benefits/)**, Netspar paper DP 07/2024-024
