@@ -25,7 +25,9 @@ At the heart of my work is a concern with social inequality in the changing labo
 [Google Scholar](https://scholar.google.com/citations?user=Q2KhEt4AAAAJ&hl=en) ·
 [ResearchGate](https://www.researchgate.net/profile/Konrad_Turek) ·
 [Open Science materials (OSF)](https://osf.io/vcbm7) ·
+[Open Science materials (Zenodo)](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Turek%2C%20Konrad%22&l=list&p=1&s=10&sort=bestmatch)
 [Comparative Panel File](https://cpfdata.com/)
+
 
 ## Contact
 {: #contact}
